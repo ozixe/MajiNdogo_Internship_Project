@@ -36,6 +36,13 @@ Something had to change.
 ### 2. **Economic and Social Benefits**
    - **Increased Productivity:** With reduced time spent in water queues, residents, especially women and children, had more time for education and economic activities, contributing to the town's overall productivity.
    - **Enhanced Community Well-being:** The improvement in water access led to better health outcomes, with fewer water-borne diseases reported, and a stronger sense of community safety and well-being.
+     
+# **Maji Ndogo Water Project Dashboard**
+Access the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMGQ4YWI1NGUtNTI5Yy00MWIyLThhZmMtMTU0MmFiNjg5MzRjIiwidCI6ImRhMWU4MzY2LTY0MmQtNGQ2ZC05NjI2LTNkZmNkYmI3NGQ5NyJ9). This interactive dashboard visualizes key metrics like water source distribution, queue times, and related crime rates, enabling users to track progress and analyze the impact of interventions in Maji Ndogo.
+
+# **Cost Analysis Dashboard**
+Access the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNGVjMGQ0Y2MtYjI1ZC00YzJjLTkzNzQtMjU0Y2NjNzE1NWU2IiwidCI6ImRhMWU4MzY2LTY0MmQtNGQ2ZC05NjI2LTNkZmNkYmI3NGQ5NyJ9). This dashboard breaks down costs by improvement type, tracks budget vs. actual spend, and evaluates contractor performance, providing essential insights into the financial management of the Maji Ndogo project.
+
 
 ## **Conclusion**
 
