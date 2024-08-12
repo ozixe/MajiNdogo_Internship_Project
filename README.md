@@ -1,4 +1,5 @@
 # Maji Ndogo Water Access Analysis: Restoring the Lifeblood of a Community
+![Logo](https://github.com/user-attachments/assets/c9dd104a-36c6-4fc7-a633-cd21d21c40fe)
 
 ## The Challenge
 
@@ -36,14 +37,16 @@ Something had to change.
 ### 2. **Economic and Social Benefits**
    - **Increased Productivity:** With reduced time spent in water queues, residents, especially women and children, had more time for education and economic activities, contributing to the town's overall productivity.
    - **Enhanced Community Well-being:** The improvement in water access led to better health outcomes, with fewer water-borne diseases reported, and a stronger sense of community safety and well-being.
-     
+
+## **Conclusion**
+The Maji Ndogo Water Access Analysis project is a testament to the power of data-driven decision-making in addressing complex social challenges. By systematically analyzing the problem, planning targeted interventions, and measuring the outcomes, we were able to make a substantial impact on the lives of Maji Ndogo's residents. This project not only restored the town's water infrastructure but also provided a replicable model for other communities facing similar challenges.
+
 # **Maji Ndogo Water Project Dashboard**
 Access the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMGQ4YWI1NGUtNTI5Yy00MWIyLThhZmMtMTU0MmFiNjg5MzRjIiwidCI6ImRhMWU4MzY2LTY0MmQtNGQ2ZC05NjI2LTNkZmNkYmI3NGQ5NyJ9). This interactive dashboard visualizes key metrics like water source distribution, queue times, and related crime rates, enabling users to track progress and analyze the impact of interventions in Maji Ndogo.
+
+![Dashboard Image](https://github.com/user-attachments/assets/c08bddf4-e1f4-46b0-903c-28db3c002364)
 
 # **Cost Analysis Dashboard**
 Access the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNGVjMGQ0Y2MtYjI1ZC00YzJjLTkzNzQtMjU0Y2NjNzE1NWU2IiwidCI6ImRhMWU4MzY2LTY0MmQtNGQ2ZC05NjI2LTNkZmNkYmI3NGQ5NyJ9). This dashboard breaks down costs by improvement type, tracks budget vs. actual spend, and evaluates contractor performance, providing essential insights into the financial management of the Maji Ndogo project.
 
-
-## **Conclusion**
-
-The Maji Ndogo Water Access Analysis project is a testament to the power of data-driven decision-making in addressing complex social challenges. By systematically analyzing the problem, planning targeted interventions, and measuring the outcomes, we were able to make a substantial impact on the lives of Maji Ndogo's residents. This project not only restored the town's water infrastructure but also provided a replicable model for other communities facing similar challenges.
+![Dashboard Image](https://github.com/user-attachments/assets/c9f7e7c0-83af-4b06-83f8-d8a60485f2c5)
